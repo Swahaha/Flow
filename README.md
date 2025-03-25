@@ -20,7 +20,7 @@ The goal is to train the servo to accurately strike a disc toward a target. Afte
 
 A video showing the Final Target Hit in the above chain:
 
-<video src="Media/IMG_1710.mp4" width="400"> </video>
+[![Watch the video](https://img.youtube.com/vi/3_GFVGlN-MU/hqdefault.jpg)](https://youtube.com/shorts/3_GFVGlN-MU)
 
 And the system works even if the target is in another location:
 
