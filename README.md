@@ -151,6 +151,6 @@ set_servo_duty_cycle(0)
 - Reliable convergence in <7 attempts
 - Works with random target placement
 
-
 By far the biggest improvement would be to automate the release mechanism. This would make the system more deterministic. Using a positional servo instead of a continuous servo would also be a good change. Finally, we could update the CV pipeline to detect the board corners (e.g. with corner stickers) for spatial calibration. This would enable gradient based servo adjustements instead of the current categorical form of feedback ("hit harder" or "hit later").
+
 ---
