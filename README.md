@@ -4,7 +4,7 @@
 
 ## Overview
 
-The goal is to train the servo to accurately strike a disc toward a target. After each attempt, the camera captures the disc’s landing position, and the vision model evaluates the accuracy. Based on the result, the system automatically adjusts power and timing until it consistently hits the target—typically within six attempts.
+The goal is to train the servo to accurately strike a disc toward a target. After each attempt, the camera captures the disc’s landing position, and the vision model evaluates the accuracy. Based on the result, the system automatically adjusts power and timing until it consistently hits the target—typically within six attempts. Built over a weekend in March 2025.
 
 
 <img src="Media/image.png" width="600">
